@@ -3,9 +3,8 @@ import java.util.ArrayList;
 public class Team {
     private String teamName;
     private ArrayList<Member> teamMembers;
-    public Team(String teamName, ArrayList<Member> teamMembers) {
+    public Team(String teamName) {
         this.teamName = teamName;
-        this.teamMembers = teamMembers;
     }
     public String getTeamName() {
         return teamName;
