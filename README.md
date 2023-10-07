@@ -1,4 +1,2 @@
 # worshipTeamSession
 
-
-### merge protection test
